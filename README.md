@@ -24,7 +24,7 @@ Untuk menjalankan web server dari menu XAMPP Control
 
 
 #
-Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:http://localhost/lab7_php_dasar/
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:  http://localhost/lab7_php_dasar/
 
 
 ![Capture 8](https://user-images.githubusercontent.com/56498195/117853427-9b0a5300-b2b2-11eb-83ff-ab209130b868.PNG)
