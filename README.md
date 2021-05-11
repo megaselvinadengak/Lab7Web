@@ -1,5 +1,12 @@
 # Lab7Web
 
+
+                                                      Nama : Mega S Dengak
+                                                      Nim : 311910130
+                                                      Kelas : TI.19.A.1
+                                                      
+                                                      
+
 # Praktikum 7: PHP Dasar
 
 PHP adalah singkatan dari PHP Hypertext Prepocessor dan merupakan bahasa pemrograman yang di desain khusus untuk web development atau pengembangan web. PHP memiliki sifat Server-Side karena PHP dijalankan atau di eksekusi dari sisi server. maksud di jalankan dari sisi server adalah PHP di jalankan pada komputer server dan bukan pada komputer client. PHP di jalankan melalui aplikasi web browser sama halnya seperti HTML. Hampir semua situs-situs besar dan populer di kembangkan menggunakan PHP. seperti misalnya wordpress, joomla, facebook, twitter, wikipedia dan situs besar lainnya.
@@ -65,5 +72,20 @@ Membuat operator, Kondisi IF, Kondisi Switch, Perulangan for, Perulangan while, 
 ![perulangan 2](https://user-images.githubusercontent.com/56498195/117855032-4536aa80-b2b4-11eb-96aa-3210b45d83b5.PNG)
 
 
+
+
+
+# Pertanyaan dan Tugas
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan
+
+
+#
+![tugas 1](https://user-images.githubusercontent.com/56498195/117855420-aa8a9b80-b2b4-11eb-893a-401bda4f0a5d.PNG)
+
+#
+![tugas 2](https://user-images.githubusercontent.com/56498195/117855422-abbbc880-b2b4-11eb-9bb0-0653b8d754de.PNG)
+
+#
+![tugas 3](https://user-images.githubusercontent.com/56498195/117855424-ac545f00-b2b4-11eb-88f5-1a16cbc616e2.PNG)
 
 
