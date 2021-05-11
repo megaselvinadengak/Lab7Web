@@ -10,9 +10,23 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 ![Capture 9](https://user-images.githubusercontent.com/56498195/117852914-09024a80-b2b2-11eb-833b-379706dededc.PNG)
 
 #
+
 Untuk menjalankan web server dari menu XAMPP Control
+
 ![Capture 10](https://user-images.githubusercontent.com/56498195/117852921-0acc0e00-b2b2-11eb-821b-a65a6d97fd92.PNG)
 
 
 #
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:http://localhost/lab7_php_dasar/
+
+
+![Capture 8](https://user-images.githubusercontent.com/56498195/117853427-9b0a5300-b2b2-11eb-83ff-ab209130b868.PNG)
+
+#
+
+PHP Dasar
+Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
+
+![Capture 6](https://user-images.githubusercontent.com/56498195/117853582-cbea8800-b2b2-11eb-998e-d38b46e0dc67.PNG)
+
 
