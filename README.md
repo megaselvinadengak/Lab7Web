@@ -27,6 +27,13 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 
-![Capture 6](https://user-images.githubusercontent.com/56498195/117853582-cbea8800-b2b2-11eb-998e-d38b46e0dc67.PNG)
+
+#
+![Capture 2](https://user-images.githubusercontent.com/56498195/117854083-53d09200-b2b3-11eb-89d1-26065273c820.PNG)
+#
+![Capture 11](https://user-images.githubusercontent.com/56498195/117853949-2edc1f00-b2b3-11eb-89dd-d6945f0d9214.PNG)
+#
+![Capture 3](https://user-images.githubusercontent.com/56498195/117854063-4d421a80-b2b3-11eb-8087-b36261f91803.PNG)
+
 
 
