@@ -36,4 +36,34 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 ![Capture 3](https://user-images.githubusercontent.com/56498195/117854063-4d421a80-b2b3-11eb-8087-b36261f91803.PNG)
 
 
+#
+Membuat Form Input dengan kode seperti berikut.
+
+![Capture 6](https://user-images.githubusercontent.com/56498195/117854492-bb86dd00-b2b3-11eb-8a75-7ea7a62fae0e.PNG)
+
+#
+![Capture 7](https://user-images.githubusercontent.com/56498195/117854496-bcb80a00-b2b3-11eb-92d4-413155c9d752.PNG)
+
+
+#
+
+Membuat operator, Kondisi IF, Kondisi Switch, Perulangan for, Perulangan while, Perulangan dowhile dengan kode seperti berikut.
+
+#
+![operator 1](https://user-images.githubusercontent.com/56498195/117855019-41a32380-b2b4-11eb-8a7d-ef9bc6f972bb.PNG)
+
+#
+![operator 2](https://user-images.githubusercontent.com/56498195/117855026-436ce700-b2b4-11eb-957c-b07aeb2dcad8.PNG)
+
+#
+![operator 3](https://user-images.githubusercontent.com/56498195/117855029-44057d80-b2b4-11eb-8c4a-2f592ceae5fc.PNG)
+
+#
+![perulangan 1](https://user-images.githubusercontent.com/56498195/117855031-449e1400-b2b4-11eb-8a54-1edabfea758f.PNG)
+
+#
+![perulangan 2](https://user-images.githubusercontent.com/56498195/117855032-4536aa80-b2b4-11eb-96aa-3210b45d83b5.PNG)
+
+
+
 
