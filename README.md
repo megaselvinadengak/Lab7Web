@@ -1,9 +1,9 @@
 # Lab7Web
 
 
-                                                      Nama : Mega S Dengak
-                                                      Nim : 311910130
-                                                      Kelas : TI.19.A.1
+                                                    Nama : Mega S Dengak
+                                                    Nim : 311910130
+                                                    Kelas : TI.19.A.1
                                                       
                                                       
 
