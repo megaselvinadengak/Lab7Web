@@ -10,4 +10,9 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 ![Capture 9](https://user-images.githubusercontent.com/56498195/117852914-09024a80-b2b2-11eb-833b-379706dededc.PNG)
 
 #
+Untuk menjalankan web server dari menu XAMPP Control
 ![Capture 10](https://user-images.githubusercontent.com/56498195/117852921-0acc0e00-b2b2-11eb-821b-a65a6d97fd92.PNG)
+
+
+#
+
